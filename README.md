@@ -1,6 +1,6 @@
 # **Pastebin and Paste2 Scraper for Filehosts links**
 
-![Pastebin logo](/img/pastebin_logo.PNG)
+![Pastebin logo](/img/pastebin_logo.png)
 ![Paste2 logo](/img/paste2_logo.JPG)
 
 </br>This is a Python script for web scraping filehosts links from pastebin [pastebin.com](https://pastebin.com) and [paste2.org](https://paste2.com) by using 'requests' library and 'regex' for recognizing URLs, so it's very fast! :)
